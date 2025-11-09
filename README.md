@@ -43,3 +43,6 @@ The task is to run the simulation 5,000 times, collect the final position of eac
     ```
 2.  Run the main Jupyter Notebook (`simulation.ipynb`).
 3.  The script will output the final probability and display visualizations.
+
+---
+*This project is based on the "Hacker Statistics" case study from the DataCamp Intermediate Python course.*  
